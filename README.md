@@ -1,4 +1,4 @@
-
+[![MasterHead](https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A839PA3861PT28D1017666652W10000H10000/views/1,width=378,height=378,appearanceId=839,backgroundColor=F2F2F2/coder-with-problems.jpg)]
 
 <h1 align="center">Hi 👋, I'm PRATIK VAGHASIYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
